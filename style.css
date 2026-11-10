@@ -70,6 +70,24 @@ footer {
     margin-bottom: 8px;
 }
 
+.member-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.member {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.role {
+    font-weight: bold;
+}
+
 p {
   line-height: 1.8;
   margin-bottom: 1.2em;
