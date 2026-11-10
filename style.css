@@ -69,3 +69,8 @@ footer {
 .card li {
     margin-bottom: 8px;
 }
+
+p {
+  line-height: 1.8;
+  margin-bottom: 1.2em;
+}
